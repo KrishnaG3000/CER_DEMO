@@ -1,2 +1,3 @@
 # CER_DEMO
-This is my Demo Repository
+This is my Demo Repository.
+Auther Krishnachand gupta.
